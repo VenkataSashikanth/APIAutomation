@@ -1,0 +1,495 @@
+11:40:46.770 [main] INFO  apiapi.test.CountryTests - ******* Adding Country *******
+11:40:47.501 [main] INFO  apiapi.test.CountryTests - ***** Country Addedd Successfully *****
+11:41:34.866 [main] INFO  apiapi.test.CountryTests - ******* Adding Country *******
+11:41:35.604 [main] INFO  api.testapi.test.CountryTests - ***** Country Addedd Successfully *****
+11:44:42.099 [main] INFO  apiapi.test.CountryTests - ******* Adding Country *******
+11:41:35.623 [main] INFO  apiapi.test.CountryTests - Added Country response is:
+11:44:42.848 [main] INFO  apiapi.test.CountryTests - ***** Country Addedd Successfully *****
+11:44:42.867 [main] INFO  apiapi.test.CountryTests - Added Country response is:
+11:44:43.211 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:44:43.212 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:44:43.413 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:44:43.414 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:44:43.427 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:44:43.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:44:43.443 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:44:43.443 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:44:43.454 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:44:43.454 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:44:43.464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:44:43.465 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:45:41.403 [main] INFO  apiapi.test.CountryTests - ******* Adding Country *******
+11:45:42.106 [main] INFO  apiapi.test.CountryTests - ***** Country Addedd Successfully *****
+11:45:42.126 [main] DEBUG apiapi.test.CountryTests - Added Country response is:
+11:45:42.470 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:45:42.472 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:45:42.680 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:45:42.680 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:45:42.695 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:45:42.695 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:45:42.712 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:45:42.713 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:45:42.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:45:42.724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:45:42.734 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:45:42.734 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:46:59.663 [main] INFO  apiapi.test.CountryTests - ******* Adding Country *******
+11:47:00.369 [main] INFO  apiapi.test.CountryTests - ***** Country Addedd Successfully *****
+11:47:00.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:00.754 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:47:00.963 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:00.964 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:47:00.978 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:00.979 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:47:00.995 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:00.996 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:47:01.007 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:01.007 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:47:01.017 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:47:01.017 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels19:14:23.204 [main] INFO  api.test.CountryTests - ******* Adding Country *******
+19:14:23.959 [main] INFO  apiapi.test.CountryTests - ***** Country Addedd Successfully *****
+19:15:02.399 [main] INFO  apiapi.test.CountryTests - ******* Adding Country *******
+19:15:03.140 [main] INFO  apiapi.test.CountryTests - ***** Country Addedd Successfully *****
+10:54:59.375 [main] INFO  apiapi.test.CountryTests - ******* Adding Country *******
+10:55:00.126 [main] INFO  apiapi.test.CountryTests - ***** Country Addedd Successfully *****
+10:55:30.018 [main] INFO  apiapi.test.CountryTests - ******* Adding Country *******
+10:55:30.757 [main] INFO  apiapi.test.CountryTests - ***** Country Addedd Successfully *****
+10:57:51.327 [main] INFO  apiapi.test.CountryTests - ******* Adding Country *******
+10:57:52.217 [main] INFO  apiapi.test.CountryTests - ***** Country Addedd Successfully *****
+11:10:21.926 [main] INFO  apiapi.test.CountryTests - ******* Adding Country *******
+11:10:22.692 [main] INFO  apiapi.test.CountryTests - ***** Country Addedd Successfully *****
+11:44:46.596 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+11:44:46.597 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+11:44:47.661 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+11:44:47.677 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+12:03:21.388 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+12:03:21.389 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+12:03:22.543 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+12:03:22.558 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+12:04:21.541 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+12:04:21.542 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+12:04:22.730 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+12:04:22.744 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+12:17:23.660 [main] INFO  api.test.CountryTests - ******* Adding Country *******
+12:17:24.463 [main] INFO  api.test.CountryTests - ***** Country Addedd Successfully *****
+12:18:08.860 [main] INFO  api.test.CountryTests - ******* Adding Country *******
+12:18:09.571 [main] INFO  api.test.CountryTests - ***** Country Addedd Successfully *****
+12:19:16.488 [main] INFO  api.test.CountryTests - ******* Adding Country *******
+12:19:17.223 [main] INFO  api.test.CountryTests - ***** Country Addedd Successfully *****
+12:22:49.962 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+12:22:49.964 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+12:22:51.049 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+12:22:51.063 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+12:29:19.799 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+12:29:19.800 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+12:29:20.919 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+12:29:20.926 [main] ERROR practiceApiAuto.test.ChartTest_FileUrlStats - ***Role should be Super_Admin to access***
+12:29:20.941 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+12:31:08.877 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+12:31:08.879 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+12:31:10.455 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+12:31:10.458 [main] ERROR practiceApiAuto.test.ChartTest_FileUrlStats - ***Role should be Super_Admin to access***
+12:31:10.492 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+12:34:48.657 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+12:34:48.658 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+12:34:49.837 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+12:34:49.851 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+16:20:16.897 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+16:20:16.899 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+16:20:18.107 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+16:20:18.126 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+16:26:35.736 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+16:26:35.738 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+16:26:36.798 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+16:26:36.813 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+16:29:47.682 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+16:29:47.683 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+16:31:00.355 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+16:31:00.356 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - email: sashikanth@gmail.com
+16:31:05.289 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+16:31:05.290 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - email: sashikanth@gmail.com
+17:17:12.500 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:17:12.501 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:17:30.114 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:17:30.116 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:17:31.202 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:17:31.216 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:17:51.803 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:17:51.805 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:17:52.963 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:17:52.977 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:18:46.573 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:18:46.574 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:18:47.665 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:18:47.680 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:19:50.253 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:19:50.255 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:19:51.371 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:19:51.386 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:19:56.272 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:19:56.274 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:19:57.344 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:19:57.359 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:20:20.964 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:20:20.965 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:20:22.025 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:20:22.040 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:21:37.433 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+17:21:37.434 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - email: sashikanth@gmail.com
+17:21:38.553 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - User_Role: SUPER_ADMIN
+17:21:38.567 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+17:23:19.094 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:23:19.096 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:23:20.205 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:23:20.224 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:25:46.049 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:25:46.050 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:25:47.162 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:25:47.177 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:26:15.782 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:26:15.784 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:26:16.858 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:26:16.876 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:28:43.117 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:28:43.119 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:28:44.249 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:28:44.267 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:29:05.499 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:29:05.500 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:29:06.567 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:29:06.581 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:32:39.614 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:32:39.615 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:32:40.693 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:32:40.707 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:33:04.425 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:33:04.426 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:33:05.537 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:33:05.552 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:33:21.278 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:33:21.279 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:33:22.325 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:33:22.341 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:42:29.057 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:42:29.059 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:42:30.122 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:42:30.137 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:43:00.819 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:43:00.820 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:43:01.938 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:43:01.958 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:43:50.889 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:43:50.891 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:43:51.963 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:43:51.978 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:49:13.386 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:49:13.388 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:49:14.457 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:49:14.472 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:49:53.290 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:49:53.291 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:49:54.378 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:49:54.393 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:50:57.500 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:50:57.502 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:50:58.602 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:50:58.622 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:51:25.570 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:51:25.571 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:51:26.667 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:51:26.683 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:51:43.236 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:51:43.237 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:51:44.372 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:51:44.391 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:52:06.908 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:52:06.910 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:52:07.980 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:52:07.995 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:52:39.565 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:52:39.567 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:52:40.638 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:52:40.653 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:53:05.953 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:53:05.954 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:53:07.057 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:53:07.072 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+17:54:34.242 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+17:54:34.243 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+17:54:35.328 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+17:54:35.342 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+18:09:30.645 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+18:09:30.646 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+18:09:31.737 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+18:09:31.756 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+18:14:08.992 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+18:14:08.993 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+18:14:10.119 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+18:14:10.134 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+18:46:56.497 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+18:46:56.498 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+18:46:57.612 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+18:46:57.627 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+11:11:24.259 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+11:11:24.261 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+11:13:40.971 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+11:13:40.973 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+11:13:42.064 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - User_Role: SUPER_ADMIN
+11:13:42.079 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+11:43:36.775 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+11:43:36.776 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - email: sashikanth@gmail.com
+11:44:28.123 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+11:45:29.724 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+11:45:30.831 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+11:52:59.012 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+11:53:00.157 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+11:54:50.264 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+11:54:51.423 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+11:56:23.135 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+11:56:24.352 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+11:56:41.752 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+11:56:42.976 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+12:00:52.742 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+12:00:53.925 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+12:02:10.521 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+12:02:11.714 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+12:02:33.438 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+12:02:34.666 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+12:03:31.682 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Started*****
+12:03:32.989 [main] INFO  practiceApiAuto.test.ChartTest_FileUrlStats - *****Login Test Completed*****
+14:13:56.166 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:13:57.286 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:17:47.745 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:17:48.847 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:18:42.794 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:18:43.912 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:19:04.019 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:19:05.155 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:20:02.531 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:20:03.672 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:20:23.722 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:20:24.842 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:22:23.079 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:22:24.281 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:23:13.149 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:23:14.285 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:23:38.179 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:23:39.319 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:28:23.407 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:28:24.647 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:29:20.386 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:29:21.530 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:30:42.877 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:30:43.994 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:31:15.948 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:31:17.065 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:31:49.654 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:31:50.766 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:36:44.636 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:36:45.748 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:40:45.998 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:40:47.153 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:44:59.097 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:45:00.241 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:45:07.222 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:45:08.386 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:45:37.634 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:45:38.762 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:46:53.285 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:46:54.413 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:48:00.880 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:48:01.986 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:48:30.832 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:48:31.951 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:48:59.534 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:49:00.625 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:49:24.110 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:49:25.276 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:49:35.931 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:49:37.058 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:49:41.442 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:49:42.678 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:50:44.927 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:50:46.213 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:52:49.176 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:52:50.402 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:56:29.482 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:56:30.625 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:57:49.630 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:57:50.776 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:58:11.774 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:58:12.948 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:58:36.798 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:58:37.920 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:59:31.706 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:59:32.861 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+14:59:42.514 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+14:59:43.641 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+15:00:05.504 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+15:00:06.669 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+15:00:14.769 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+15:00:15.897 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+15:00:29.685 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:00:30.823 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:08:43.635 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:08:44.744 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:09:28.163 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:09:29.287 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:10:25.741 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:10:26.908 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:14:01.118 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:14:02.300 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:14:26.111 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:14:27.224 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:15:50.829 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:15:51.939 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:16:05.114 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:16:06.245 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:22:59.723 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:23:00.826 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:24:28.057 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:24:29.170 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:24:45.890 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:24:47.087 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:24:55.102 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:24:56.236 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:25:33.454 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:25:34.636 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:26:01.920 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:26:03.061 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:26:26.153 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:26:27.318 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:27:31.243 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:27:32.403 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:28:50.348 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:28:51.502 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:33:13.462 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:33:14.638 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:34:55.582 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:34:56.704 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:38:20.832 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:39:49.204 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:39:50.303 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:43:01.526 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:43:02.625 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:43:52.614 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:43:53.785 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:45:13.955 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+15:45:15.055 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+15:45:59.089 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+15:46:00.244 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+15:46:14.626 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+15:46:15.788 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+15:46:31.505 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+15:46:32.639 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+15:47:23.712 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+15:47:24.900 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+15:48:09.903 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Started*****
+15:48:11.036 [main] INFO  practiceApiAuto.test.charts.ChartTest_Endpoints - *****Login Test Completed*****
+15:52:18.752 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:52:19.908 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:55:59.516 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:56:00.665 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:57:27.845 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:57:29.021 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+11:15:03.537 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+11:15:04.935 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+11:25:24.781 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+11:25:25.907 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+11:26:48.502 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+11:26:49.695 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+12:00:25.361 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+12:00:26.477 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+13:00:05.200 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+13:00:06.338 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+13:00:29.559 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+13:00:30.701 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+13:02:13.846 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+13:02:15.015 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+13:02:24.869 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+13:02:26.009 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+13:02:58.098 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+13:02:59.202 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+13:03:48.252 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+13:03:49.373 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+13:03:55.666 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+13:03:56.797 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:34:50.893 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:34:52.039 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+14:35:09.399 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+14:35:10.500 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:21:59.603 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+15:22:00.742 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+15:23:03.150 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+15:23:04.241 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+15:23:29.378 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+15:23:30.469 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+15:23:37.779 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+15:23:38.916 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+15:25:33.751 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+15:25:34.848 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+15:28:29.748 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+15:28:30.887 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+15:28:36.545 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+15:28:37.674 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+15:48:33.646 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+15:48:34.780 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+15:49:55.724 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+15:49:56.850 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+16:06:43.818 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+16:06:44.923 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+16:07:22.827 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+16:07:23.925 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+16:26:35.246 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+16:26:36.446 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+16:33:37.673 [main] INFO  practiceApiAuto.test.charts.ChartTest_FilesByClassification - *****Login Test Started*****
+16:33:38.834 [main] INFO  practiceApiAuto.test.charts.ChartTest_FilesByClassification - *****Login Test Completed*****
+16:35:22.555 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+16:35:23.761 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+09:29:51.938 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Started*****
+09:29:53.144 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Completed*****
+09:34:57.289 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Started*****
+09:34:58.436 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Completed*****
+09:35:15.275 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Started*****
+09:35:16.466 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Completed*****
+09:36:11.045 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Started*****
+09:36:12.198 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Completed*****
+09:36:59.391 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Started*****
+09:37:00.729 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Completed*****
+10:33:55.156 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Started*****
+10:33:56.311 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Completed*****
+10:43:45.793 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Started*****
+10:43:46.996 [main] INFO  practiceApiAuto.test.charts.ChartTest_TopTrendingThreats - *****Login Test Completed*****
+11:46:10.472 [main] INFO  practiceApiAuto.test.charts.ChartTest_FilesByClassification - *****Login Test Started*****
+11:46:11.638 [main] INFO  practiceApiAuto.test.charts.ChartTest_FilesByClassification - *****Login Test Completed*****
+11:58:18.590 [main] INFO  practiceApiAuto.test.charts.ChartTest_FilesByClassification - *****Login Test Started*****
+11:58:19.800 [main] INFO  practiceApiAuto.test.charts.ChartTest_FilesByClassification - *****Login Test Completed*****
+12:00:41.485 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+12:00:42.629 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+12:02:20.387 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+12:02:21.567 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+12:03:14.537 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Started*****
+12:03:15.748 [main] INFO  practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected - *****Login Test Completed*****
+12:04:40.772 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+12:04:41.900 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+12:13:23.407 [main] INFO  practiceApiAuto.test.charts.ChartTest_CleanFilesInLab - *****Login Test Started*****
+12:13:24.600 [main] INFO  practiceApiAuto.test.charts.ChartTest_CleanFilesInLab - *****Login Test Completed*****
+12:14:24.534 [main] INFO  practiceApiAuto.test.charts.ChartTest_CleanFilesInLab - *****Login Test Started*****
+12:14:25.734 [main] INFO  practiceApiAuto.test.charts.ChartTest_CleanFilesInLab - *****Login Test Completed*****
+12:14:33.660 [main] INFO  practiceApiAuto.test.charts.ChartTest_CleanFilesInLab - *****Login Test Started*****
+12:14:34.864 [main] INFO  practiceApiAuto.test.charts.ChartTest_CleanFilesInLab - *****Login Test Completed*****
+12:15:27.548 [main] INFO  practiceApiAuto.test.charts.ChartTest_CleanFilesInLab - *****Login Test Started*****
+12:15:28.790 [main] INFO  practiceApiAuto.test.charts.ChartTest_CleanFilesInLab - *****Login Test Completed*****
+12:15:33.879 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+12:15:35.062 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+12:20:38.103 [main] INFO  practiceApiAuto.test.charts.ChartTest_CleanFilesInLab - *****Login Test Started*****
+12:20:39.250 [main] INFO  practiceApiAuto.test.charts.ChartTest_CleanFilesInLab - *****Login Test Completed*****
+12:43:50.567 [main] INFO  practiceApiAuto.test.charts.ChartTest_ARWDetection - *****Login Test Started*****
+12:43:51.715 [main] INFO  practiceApiAuto.test.charts.ChartTest_ARWDetection - *****Login Test Completed*****
+12:57:35.819 [main] INFO  practiceApiAuto.test.charts.ChartTest_ARWDetection - *****Login Test Started*****
+12:57:37.055 [main] INFO  practiceApiAuto.test.charts.ChartTest_ARWDetection - *****Login Test Completed*****
+13:00:02.293 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+13:00:03.503 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+13:10:45.221 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****
+13:10:46.438 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Completed*****
+13:11:43.267 [main] INFO  practiceApiAuto.test.CreateUserTest - *****Login Test Started*****

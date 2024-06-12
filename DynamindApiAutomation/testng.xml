@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="practiceApiAuto.utilities.ExtentReportManager"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="/home/thrymr/IdeaProjects/DynamindApiAutomation/src/test/java/practiceApiAuto/test">
+        <classes>
+            <class name="practiceApiAuto.test.login.LoginTest">
+                <methods>
+                    <exclude name="testLogin"/>
+                    <!--<include name="testLoginEmptyCredentials"/>
+                    <include name="testLoginInvalidCredentials"/>
+                    <include name="testLoginEmptyPassword"/>
+                    <include name="testLoginWIthInvalidEmail"/>
+                    <include name="testLoginWithIncorrectEmail"/>-->
+                </methods>
+            </class>
+            <class name="practiceApiAuto.test.dashboard.ChartEnums">
+
+            </class>
+            <class name="practiceApiAuto.test.dashboard.ChartSettings">
+
+            </class>
+            <class name="practiceApiAuto.test.createUser.CreateUserTest">
+                <methods>
+                    <!--<include name="testCreateUserEmptyMail"/>
+                    <include name="testCreateUserEmptyName"/>
+                    <include name="testCreateUserInvalidMail"/>
+                    <include name="testCreateUserExistingMail"/>
+                    <include name="testCreateUserValidMailWithSpaces"/>
+                    <include name="testCreateUser"/>
+                    <include name="testGetUserById"/>
+                    <include name="testEditUser"/>
+                    <include name="testGetUserWithoutId"/>
+                    <include name="testGetNonExistingUserWithId"/>
+                    <include name="testUserLogin"/>
+                    <include name="testUserShouldNotCreateUser"/>-->
+                </methods>
+            </class>
+            <class name="practiceApiAuto.test.createUser.TestGetUser">
+                <methods>
+                    <!--<include name="getUserTest"/>
+                    <include name="testGetUserWithoutId"/>
+                    <include name="testGetNonExistingUserWithId"/>
+                    <include name="getUsersTest"/>-->
+                </methods>
+            </class>
+            <class name="practiceApiAuto.test.createUser.UserStatus">
+
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_FileStats">
+                <methods>
+                    <!--<include name="testChartsWithEmptyChartNames"/>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValues"/>
+                    <include name="testColorValues"/>
+                    <include name="testDatesRange"/>-->
+                </methods>
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_UrlStats">
+                <methods>
+                    <!--<include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValues"/>
+                    <include name="testColorValues"/>
+                    <include name="testDatesRange"/>-->
+                </methods>
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_TopTrendingThreats">
+                <methods>
+                    <!--<include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testThreatNames"/>-->
+                </methods>
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_Endpoints">
+                <methods>
+                    <!--<include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testActiveCount"/>
+                    <include name="testProtectedCount"/>
+                    <include name="testColorForActive"/>
+                    <include name="testColorForProtected"/>
+                    <include name="testDatesRange"/>-->
+                </methods>
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_OsWiseEndpointsProtected">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValueOfLatestCount"/>
+                    <include name="testValueOfPreviousCount"/>
+                    <include name="testColor"/>
+                    <include name="testNames"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_FilesByClassification">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValuesField"/>
+                    <include name="testColorValues"/>
+                    <include name="testNames"/>
+                    <include name="testTotalCount"/>
+                    <include name="testPreviousDayCount"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_CleanFilesInLab">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValues"/>
+                    <include name="testColorValues"/>
+                    <include name="testDatesRange"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_ARWDetection">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testCountForLineGraph"/>
+                    <include name="testCountForBarGraph"/>
+                    <include name="testColorForLineGraph"/>
+                    <include name="testColorForBarGraph"/>
+                    <include name="testDatesRange"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_HawkInsightSampleClassification">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValuesField"/>
+                    <include name="testColorValues"/>
+                    <include name="testNames"/>
+                    <include name="testTotalCount"/>
+                    <include name="testPreviousDayCount"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_DetectionByIndustry">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValuesField"/>
+                    <include name="testColorValues"/>
+                    <include name="testNames"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_SignatureReleasedOnDetection">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValuesField"/>
+                    <include name="testColorValues"/>
+                    <include name="testNames"/>
+                    <include name="testTotalCount"/>
+                    <include name="testPreviousDayCount"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_ThreatsDetected">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testCountForLineGraph"/>
+                    <include name="testCountForBarGraph"/>
+                    <include name="testColorForLineGraph"/>
+                    <include name="testColorForBarGraph"/>
+                    <include name="testDatesRange"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_UrlByClassification">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValuesField"/>
+                    <include name="testColorValues"/>
+                    <include name="testNames"/>
+                    <include name="testTotalCount"/>
+                    <include name="testPreviousDayCount"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_MlMarkedUrls">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValues"/>
+                    <include name="testColorValues"/>
+                    <include name="testDatesRange"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_WebSecurityClassification">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValuesField"/>
+                    <include name="testColorValues"/>
+                    <include name="testNames"/>
+                    <include name="testTotalCount"/>
+                    <include name="testPreviousDayCount"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_FilesBySource">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValuesField"/>
+                    <include name="testColorValues"/>
+                    <include name="testNames"/>
+                    <include name="testTotalCount"/>
+                    <include name="testPreviousDayCount"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_URLBySource">
+                <!--<methods>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testValuesField"/>
+                    <include name="testColorValues"/>
+                    <include name="testNames"/>
+                    <include name="testTotalCount"/>
+                    <include name="testPreviousDayCount"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_Top10AttackingRemoteIP">
+                <!--<methods>
+                    <include name="testChartsWithEmptyChartNames"/>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testDetectionType"/>
+                    <include name="testDonutChartResponseList"/>
+                    <include name="testValue"/>
+                    <include name="testName"/>
+                    <include name="testColor"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_Top10DetectedThreats">
+                <!--<methods>
+                    <include name="testChartsWithEmptyChartNames"/>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testDetectionType"/>
+                    <include name="testDonutChartResponseList"/>
+                    <include name="testValue"/>
+                    <include name="testName"/>
+                    <include name="testColor"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_Top10ExploitedProcesses">
+                <!--<methods>
+                    <include name="testChartsWithEmptyChartNames"/>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testDetectionType"/>
+                    <include name="testDonutChartResponseList"/>
+                    <include name="testValue"/>
+                    <include name="testName"/>
+                    <include name="testColor"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_Top10RansomewareFamilies">
+                <!--<methods>
+                    <include name="testChartsWithEmptyChartNames"/>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testDetectionType"/>
+                    <include name="testDonutChartResponseList"/>
+                    <include name="testValue"/>
+                    <include name="testName"/>
+                    <include name="testColor"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_Top10TargetedCities">
+                <!--<methods>
+                    <include name="testChartsWithEmptyChartNames"/>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testDetectionType"/>
+                    <include name="testDonutChartResponseList"/>
+                    <include name="testValue"/>
+                    <include name="testName"/>
+                    <include name="testColor"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_Top10TargetedIndustries">
+                <!--<methods>
+                    <include name="testChartsWithEmptyChartNames"/>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testDetectionType"/>
+                    <include name="testDonutChartResponseList"/>
+                    <include name="testValue"/>
+                    <include name="testName"/>
+                    <include name="testColor"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_Top10TargetedStates">
+                <!--<methods>
+                    <include name="testChartsWithEmptyChartNames"/>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testDetectionType"/>
+                    <include name="testDonutChartResponseList"/>
+                    <include name="testValue"/>
+                    <include name="testName"/>
+                    <include name="testColor"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_Top10TTPs">
+                <!--<methods>
+                    <include name="testChartsWithEmptyChartNames"/>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testDetectionType"/>
+                    <include name="testDonutChartResponseList"/>
+                    <include name="testValue"/>
+                    <include name="testName"/>
+                    <include name="testColor"/>
+                </methods>-->
+            </class>
+            <class name="practiceApiAuto.test.charts.ChartTest_Top10Vulnerability">
+                <!--<methods>
+                    <include name="testChartsWithEmptyChartNames"/>
+                    <include name="testChartsWithoutChartNames"/>
+                    <include name="chartTests"/>
+                    <include name="testDetectionType"/>
+                    <include name="testDonutChartResponseList"/>
+                    <include name="testValue"/>
+                    <include name="testName"/>
+                    <include name="testColor"/>
+                </methods>-->
+            </class>
+        </classes>
+    </test>
+</suite>
